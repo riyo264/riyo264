@@ -1,6 +1,3 @@
-<p align="center">
-  <img src="./efef.png" width="1200" height="250"/>
-</p>
 <h1 align="left">Hi There 👋, I'm Supriyo a Full Stack Developer</h1>
 
 ###
