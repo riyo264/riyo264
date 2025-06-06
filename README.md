@@ -1,3 +1,6 @@
+<p align="center">
+  <img src="./waves.gif" width="1000" height="250" />
+</p>  
 <h1 align="left">Hi There 👋, I'm Supriyo a Full Stack Developer</h1>
 
 ###
